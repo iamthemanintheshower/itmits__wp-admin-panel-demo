@@ -30,7 +30,7 @@ $admin_menu_page_config = array(
     'plugin_page_capability' => 'administrator',
     'plugin_menu_slug' => 'wp_admin_panel_demo__menu_page',
     'plugin_page_function' => 'admin_itmits__wp_admin_panel_demo__menu_page',
-    'plugin_menu_icon' => $plugin_folder_path.'/images/icon.png',
+    'plugin_menu_icon' => $plugin_dir_url.'admin-uihsdw/public_html/imgs/icon.png',
     'plugin_menu_position' => ''
 );
 
